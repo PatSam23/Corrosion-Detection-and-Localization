@@ -21,7 +21,10 @@ This is a Flask web application that allows users to upload images and uses a tr
 1. Clone the repository to your local machine.
 2. Install the required dependencies using pip:
     ```
-    pip install -r requirements.txt
+    pip install -r requirements_1.txt
+    ```
+    ```
+    pip install -r requirements_2.txt
     ```
 3. Run the application:
     ```
