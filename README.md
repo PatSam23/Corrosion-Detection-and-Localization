@@ -22,9 +22,6 @@ This is a Flask web application that allows users to upload images and uses a tr
 2. Use the upload form to upload an image.
 3. The application will save the image and use a trained model to make a prediction.
 
-## Note
-
-The application assumes the existence of a function named `predict` for localization in a module named `image_utils`. Make sure this function is properly defined and working.
 
 ## Model
 
