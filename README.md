@@ -1,4 +1,4 @@
-# Flask Image Upload and Prediction Application
+#  Image Upload and Prediction Application
 
 This is a Flask web application that allows users to upload images and uses a trained model to make predictions.
 
